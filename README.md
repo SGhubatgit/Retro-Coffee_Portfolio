@@ -57,6 +57,6 @@ Key data for the portfolio is centrally managed. You can easily update your prof
 - `src/data/resume.js`: Contains all text, links, projects, and skills data used across the application.
 
 ## 📬 Contact
-- **Email**: sunnygautam@example.com
+- **Email**: sunnygautam16082004@example.com
 - **LinkedIn**: [Sunny Gautam](https://www.linkedin.com/in/sunny-gautam-3b830031b/)
 - **GitHub**: [@SGhubatgit](https://github.com/SGhubatgit)
