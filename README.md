@@ -1,6 +1,6 @@
 # Sunny Gautam - Personal Portfolio
 
-![Portfolio Preview](./public/image.png) <!-- Update with an actual preview image of your portfolio if you have one -->
+![Portfolio Preview](https://vercel.com/sunny-gautam-s-projects/retro-coffee-portfolio/38oPSCtmxSMxZdM16DQYKuYf6wpd) <!-- Update with an actual preview image of your portfolio if you have one -->
 
 A modern, responsive personal portfolio website built with **React**, **Vite**, and **Tailwind CSS / Custom CSS**. This portfolio showcases my projects, skills, experience, and achievements as a Software Developer.
 
