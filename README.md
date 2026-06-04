@@ -5,7 +5,7 @@
 A modern, responsive personal portfolio website built with **React**, **Vite**, and **Tailwind CSS / Custom CSS**. This portfolio showcases my projects, skills, experience, and achievements as a Software Developer.
 
 ## 🚀 Live Demo
-*(https://vercel.com/sunny-gautam-s-projects/retro-coffee-portfolio/38oPSCtmxSMxZdM16DQYKuYf6wpd)*
+*(https://retro-coffee-portfolio-bhgvk4hxb-sunny-gautam-s-projects.vercel.app/)*
 
 ## ✨ Features
 - **Modern UI/UX**: Clean, responsive, and dynamic design.
